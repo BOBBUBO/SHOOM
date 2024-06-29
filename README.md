@@ -1,3 +1,6 @@
+Doom in shell script and its bad!!!!!
+
+GUIDE!!!!!!!!!!!!!!!!!!!WOOOOOO
 
 This level has an enemy (`E`) and a treasure chest (`$`). The player must defeat the enemy to collect the treasure.
 
